@@ -1,3 +1,3 @@
-data structures and algorithms the unconditional way; self-work, ignore.
+data structures and algorithms; self-work, ignore.
 
 **make -B _dirname_**
