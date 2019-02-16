@@ -59,7 +59,7 @@ bool nqueen(char** board, int n, int row, int col)
 	return false;
 }
 
-int one()
+int main()
 {
 	int n;
 	cin >> n;

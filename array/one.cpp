@@ -21,7 +21,7 @@ void findPair(int arr[], int lengthofarray, int sum)
 	}
 }
 
-int one()
+int main()
 {
 	int arr[] = {8, 7, 2, 5, 3, 1};
 	int sum = 10;

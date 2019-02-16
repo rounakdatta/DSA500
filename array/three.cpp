@@ -37,7 +37,7 @@ void findtriplet(int arr[], int n, int sum)
 	}
 }
 
-int three()
+int main()
 {
 	int arr[] = {1, 4, 45, 6, 10, 8};
 	int sum = 50;
