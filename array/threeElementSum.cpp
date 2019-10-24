@@ -27,8 +27,11 @@ void findtriplet(int arr[], int n, int sum)
 				atleastone = true;
 			}
 
-			(currsum < sum) ? j++ : k--;
-		}
+			 else if (currsum < sum) 
+                              j++; 
+                         else
+                              k--;
+	       }
 	}
 
 	if(!atleastone)
